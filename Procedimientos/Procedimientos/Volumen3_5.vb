@@ -1,6 +1,7 @@
 ﻿Module Volumen3_5
     Sub main()
         Dim a As Single
+
         Dim b As Single
 
         Do
