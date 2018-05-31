@@ -9,6 +9,7 @@
             a = Console.ReadLine()
         Loop Until (validarNum(a))
 
+
         Do
             Console.Write("Ingrese la altura: ")
             b = Console.ReadLine()
